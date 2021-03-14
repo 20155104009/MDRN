@@ -9,9 +9,14 @@
 ![image](./Results/gray.png)
 
 ### Results on Color Image Denoising
+![image](./Results/color.png)
 
 ## Image denoising for Real-world Noise
 
 ### Results on DND dataset
 
+![image](./Results/DND.png)
+
 ### Results on SIDD dataset
+
+![image](./Results/SIDD.png)
